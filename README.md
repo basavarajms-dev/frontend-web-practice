@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Basavaraj
 
-<!--
-**basavarajms-dev/basavarajms-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Full Stack Developer (Learning)  
+🧠 Practicing Data Structures & Algorithms  
+🚀 Hackathon Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- JavaScript
+- HTML
+- CSS
+- React
+- Node.js
+- MongoDB
+
+---
+
+## 📚 Currently Learning
+- Fullstack Development.
+- DSA (LeetCode Practice)
+- System Design
+
+---
+
+## 🌐 Connect With Me
+LinkedIn: www.linkedin.com/in/basavaraj-ms-415b113b4
+LeetCode: [https://leetcode.com  ](https://leetcode.com/u/basavarajms8593/)
+
+---
+
+⭐ Always learning and building new things.
