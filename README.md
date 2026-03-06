@@ -14,7 +14,7 @@
 - CSS
 - React
 - Node.js
-- MongoDB
+- SQL
 
 ---
 
