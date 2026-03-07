@@ -1,34 +1,24 @@
-# Hi 👋 I'm Basavaraj
+# Frontend Web Development Practice
 
-🎓 Computer Science Student  
-💻 Full Stack Developer (Learning)  
-🧠 Practicing Data Structures & Algorithms  
-🚀 Hackathon Enthusiast  
+This repository contains my frontend web development practice projects.
 
----
+## Technologies Used
 
-## 🔧 Skills
-- Python
-- JavaScript
-- HTML
-- CSS
-- React
-- Node.js
-- SQL
+* HTML
+* CSS
+* JavaScript
 
----
+## Projects
 
-## 📚 Currently Learning
-- Fullstack Development.
-- DSA (LeetCode Practice)
-- System Design
+* Basic Web Page
+* Landing Page
+* Portfolio Page
+* Responsive Design Practice
 
----
+## Goal
 
-## 🌐 Connect With Me
-LinkedIn: www.linkedin.com/in/basavaraj-ms-415b113b4
-LeetCode: [https://leetcode.com  ](https://leetcode.com/u/basavarajms8593/)
+To improve my frontend development skills and build modern web interfaces.
 
----
+## Author
 
-⭐ Always learning and building new things.
+Basavaraj
