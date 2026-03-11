@@ -59,5 +59,3 @@ I update this repository regularly while learning and practicing frontend develo
 If you like this project, feel free to ⭐ the repository.
 
 ---
-
-💻 *Happy Coding!*
