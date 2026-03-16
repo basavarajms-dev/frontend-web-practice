@@ -8,6 +8,9 @@ I am learning and building modern websites using **HTML, CSS, JavaScript, and Bo
 ## 🚀 Technologies Used
 
 * HTML5
+* * CSS3
+* JavaScript
+* Bootstrap
 
 
 
